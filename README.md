@@ -2,3 +2,11 @@
 
 Este repositório contém meu portfólio de projetos web.
 Aqui apresento minhas habilidades em desenvolvimento front-end e back-end.
+
+## Tecnologias:
+
+- HTML5
+- CSS3
+- Python
+- Git e GitHub
+- Java
